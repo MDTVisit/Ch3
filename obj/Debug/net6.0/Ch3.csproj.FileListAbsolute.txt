@@ -1,0 +1,15 @@
+C:\Users\MTA 216\Documents\GitHub\Ch3\bin\Debug\net6.0\Ch3.exe
+C:\Users\MTA 216\Documents\GitHub\Ch3\bin\Debug\net6.0\Ch3.deps.json
+C:\Users\MTA 216\Documents\GitHub\Ch3\bin\Debug\net6.0\Ch3.runtimeconfig.json
+C:\Users\MTA 216\Documents\GitHub\Ch3\bin\Debug\net6.0\Ch3.dll
+C:\Users\MTA 216\Documents\GitHub\Ch3\bin\Debug\net6.0\Ch3.pdb
+C:\Users\MTA 216\Documents\GitHub\Ch3\obj\Debug\net6.0\Ch3.csproj.AssemblyReference.cache
+C:\Users\MTA 216\Documents\GitHub\Ch3\obj\Debug\net6.0\Ch3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MTA 216\Documents\GitHub\Ch3\obj\Debug\net6.0\Ch3.AssemblyInfoInputs.cache
+C:\Users\MTA 216\Documents\GitHub\Ch3\obj\Debug\net6.0\Ch3.AssemblyInfo.cs
+C:\Users\MTA 216\Documents\GitHub\Ch3\obj\Debug\net6.0\Ch3.csproj.CoreCompileInputs.cache
+C:\Users\MTA 216\Documents\GitHub\Ch3\obj\Debug\net6.0\Ch3.dll
+C:\Users\MTA 216\Documents\GitHub\Ch3\obj\Debug\net6.0\refint\Ch3.dll
+C:\Users\MTA 216\Documents\GitHub\Ch3\obj\Debug\net6.0\Ch3.pdb
+C:\Users\MTA 216\Documents\GitHub\Ch3\obj\Debug\net6.0\Ch3.genruntimeconfig.cache
+C:\Users\MTA 216\Documents\GitHub\Ch3\obj\Debug\net6.0\ref\Ch3.dll
